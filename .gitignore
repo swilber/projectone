@@ -1,0 +1,6 @@
+*.class
+*.tmp
+*.log
+target
+output/
+!somefile.log
